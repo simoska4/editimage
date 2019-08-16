@@ -6,13 +6,13 @@ import java.awt.image.ColorConvertOp;
 import java.awt.image.WritableRaster;
 
 /**
- * The Edit-BufferedImage class implements methods
+ * The Edit-Image class implements methods
  * to edit a BufferedImage.
  *
  * @author  Simone Sapienza
  * @version 1.0.0
  */
-public class EditBufferedImage {
+public class EditImage {
 
     private static int threshold = 180;
 
@@ -20,7 +20,7 @@ public class EditBufferedImage {
      * Class constructor
      * @param threshold
      */
-    public EditBufferedImage(int threshold) {
+    public EditImage(int threshold) {
         this.threshold = threshold;
     }
 
