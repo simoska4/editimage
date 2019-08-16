@@ -6,7 +6,7 @@ import java.awt.image.ColorConvertOp;
 import java.awt.image.WritableRaster;
 
 /**
- * The Edit-BufferedImage class implements methods
+ * The Edit-Image class implements methods
  * to edit a BufferedImage.
  *
  * @author  Simone Sapienza
