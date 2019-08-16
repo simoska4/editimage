@@ -9,8 +9,8 @@ import java.awt.image.WritableRaster;
  * The Edit-Image class implements methods
  * to edit a BufferedImage.
  *
- * @author  Simone Sapienza
- * @version 1.0.0
+ * @author  Simone Sapienza <simoska4@gmail.com>
+ * @version 1.0
  */
 public class EditImage {
 
