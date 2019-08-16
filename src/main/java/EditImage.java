@@ -12,7 +12,7 @@ import java.awt.image.WritableRaster;
  * @author  Simone Sapienza
  * @version 1.0.0
  */
-public class EditBufferedImage {
+public class EditImage {
 
     private static int threshold = 180;
 
@@ -20,7 +20,7 @@ public class EditBufferedImage {
      * Class constructor
      * @param threshold
      */
-    public EditBufferedImage(int threshold) {
+    public EditImage(int threshold) {
         this.threshold = threshold;
     }
 
@@ -30,7 +30,7 @@ public class EditBufferedImage {
      * @param threshold
      */
     public static void setThreshold(int threshold) {
-        EditBufferedImage.threshold = threshold;
+        EditImage.threshold = threshold;
     }
 
 
