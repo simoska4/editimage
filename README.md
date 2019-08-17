@@ -1,6 +1,6 @@
 # EditImage
 
-Edit-Image is a Java library implements methods to edit a BufferedImage.
+Edit-Image is a Java library that implements methods to edit a BufferedImage.
 
 <br>
 
